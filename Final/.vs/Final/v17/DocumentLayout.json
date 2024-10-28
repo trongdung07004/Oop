@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\Learn\\Oop\\Project\\Final\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|e:\\learn\\oop\\project\\final\\classlibrary\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|e:\\learn\\oop\\project\\final\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\App.config",
+              "RelativeDocumentMoniker": "Final\\App.config",
+              "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\App.config",
+              "RelativeToolTip": "Final\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T14:35:00.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Administrator.cs",
+              "RelativeDocumentMoniker": "Final\\Administrator.cs",
+              "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Administrator.cs",
+              "RelativeToolTip": "Final\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:23:50.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Teacher.cs",
+              "RelativeDocumentMoniker": "Final\\Teacher.cs",
+              "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Teacher.cs",
+              "RelativeToolTip": "Final\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:23:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Student.cs",
+              "RelativeDocumentMoniker": "Final\\Student.cs",
+              "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Student.cs",
+              "RelativeToolTip": "Final\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:23:19.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Date.cs",
+              "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\ClassLibrary\\Date.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Date.cs",
+              "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\ClassLibrary\\Date.cs",
+              "RelativeToolTip": "ClassLibrary\\Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:21:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Class1.cs",
+              "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:20:53.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Person.cs",
+              "RelativeDocumentMoniker": "Final\\Person.cs",
+              "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Person.cs",
+              "RelativeToolTip": "Final\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:18:55.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Program.cs",
               "RelativeDocumentMoniker": "Final\\Program.cs",
               "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Program.cs",
               "RelativeToolTip": "Final\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:10:13.842Z",
               "EditorCaption": ""
