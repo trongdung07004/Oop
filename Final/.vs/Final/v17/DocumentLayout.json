@@ -3,35 +3,35 @@
   "WorkspaceRootPath": "E:\\Learn\\Oop\\Project\\Final\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|E:\\Learn\\Oop\\Project\\Final\\final\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|E:\\Learn\\Oop\\Project\\Final\\final\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|E:\\Learn\\Oop\\Project\\Final\\final\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|E:\\Learn\\Oop\\Project\\Final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|E:\\Learn\\Oop\\Project\\Final\\classlibrary\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|e:\\learn\\oop\\project\\final\\final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|E:\\Learn\\Oop\\Project\\Final\\final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FF8500D6-A471-4CBF-978E-B0F759CDF6BD}|Final\\Final.csproj|solutionrelative:final\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|e:\\learn\\oop\\project\\final\\classlibrary\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|e:\\learn\\oop\\project\\final\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|E:\\Learn\\Oop\\Project\\Final\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96C22E7F-F5ED-437A-B791-0D8A006C1576}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.config",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\App.config",
               "RelativeDocumentMoniker": "Final\\App.config",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Final\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-28T14:35:00.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:35:00.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Administrator.cs",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Administrator.cs",
               "RelativeDocumentMoniker": "Final\\Administrator.cs",
@@ -72,39 +71,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Teacher.cs",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Teacher.cs",
               "RelativeDocumentMoniker": "Final\\Teacher.cs",
               "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Teacher.cs",
               "RelativeToolTip": "Final\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:23:29.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Student.cs",
               "RelativeDocumentMoniker": "Final\\Student.cs",
               "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Student.cs",
               "RelativeToolTip": "Final\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:23:19.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Date.cs",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\ClassLibrary\\Date.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Date.cs",
               "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\ClassLibrary\\Date.cs",
               "RelativeToolTip": "ClassLibrary\\Date.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:21:06.915Z",
               "EditorCaption": ""
@@ -119,25 +118,24 @@
               "RelativeToolTip": "ClassLibrary\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:20:53.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T14:20:53.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Person.cs",
               "RelativeDocumentMoniker": "Final\\Person.cs",
               "ToolTip": "E:\\Learn\\Oop\\Project\\Final\\Final\\Person.cs",
               "RelativeToolTip": "Final\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:18:55.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Learn\\Oop\\Project\\Final\\Final\\Program.cs",
               "RelativeDocumentMoniker": "Final\\Program.cs",

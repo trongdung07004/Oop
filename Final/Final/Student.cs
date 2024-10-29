@@ -11,10 +11,10 @@ namespace Final
     internal class Student : Person
     {
         private int studenID;
-        private string[] coursesEnrolled;
+        private List<string> coursesEnrolled;
         private string grades;
 
-        public Student(int studenID, string[] coursesEnrolled, string grades, string name, Date dateOfBirth, string gender) : base(name, dateOfBirth, gender)
+        public Student(int studenID, List<string> coursesEnrolled, string grades, string name, Date dateOfBirth, string gender) : base(name, dateOfBirth, gender)
         {
             this.studenID = studenID;
             this.coursesEnrolled = coursesEnrolled;
@@ -22,7 +22,7 @@ namespace Final
         }
 
         public int StudenID { get => studenID; set => studenID = value; }
-        public string[] CoursesEnrolled { get => coursesEnrolled; set => coursesEnrolled = value; }
+        public List<string> CoursesEnrolled { get => coursesEnrolled; set => coursesEnrolled = value; }
         public string Grades { get => grades; set => grades = value; }
     }
 }
